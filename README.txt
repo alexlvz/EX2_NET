@@ -1,5 +1,5 @@
-alexlv
-Alex Levenzon 308636141
+Read the instructions first :)
+
 ex2 http client
 client.c - Implementation of basic http client
 README.txt - A readme text file
